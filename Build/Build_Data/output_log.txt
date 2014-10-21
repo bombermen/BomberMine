@@ -1,0 +1,74 @@
+Initialize engine version: 4.3.4f1 (e444f76e01cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvumdshim.dll 9.18.13.4052]
+    Renderer: NVIDIA GeForce GT 520MX  
+    Vendor:   NVIDIA
+    VRAM:     977 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.099 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 2966x900 at 0,0
+[Singleton] Using instance already created: aaaManager
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+[Singleton] Using instance already created: aaaManagerLoaded
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+UnloadTime: 1.675029 ms
+Platform assembly: D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\System.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 5225.
+Total: 3.477493 ms (FindLiveObjects: 0.396841 ms CreateObjectMapping: 0.240756 ms MarkObjects: 1.476609 ms  DeleteObjects: 0.158223 ms)
+
+Platform assembly: D:\Projets\BomberMine\BomberMine20141004\Build\Build_Data\Managed\System.Xml.dll (this message is harmless)
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+UnloadTime: 14.193920 ms
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 961 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 11.227873 ms (FindLiveObjects: 0.339111 ms CreateObjectMapping: 0.401972 ms MarkObjects: 0.822333 ms  DeleteObjects: 8.925508 ms)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+Receiving state for an object whose network view exists but the observed object no longer exists
+ 
+(Filename:  Line: 315)
+
+nbMorts: 1 <= 0
+ 
+(Filename: C:/BuildAgent/work/d3d49558e4d408f4/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 53)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at NetworkScript.PointEnTuant (System.String NomJoueurTuer, System.String NomJoueurTueur, Int32 indiceTueur, Int32 type) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 740)
+
+Can't send RPC function since no connection was started.
+ 
+(Filename:  Line: 2458)
+
+UnloadTime: 1.963252 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 531 unused Assets to reduce memory usage. Loaded Objects now: 5240.
+Total: 6.319527 ms (FindLiveObjects: 0.331413 ms CreateObjectMapping: 0.428058 ms MarkObjects: 1.791345 ms  DeleteObjects: 3.140947 ms)
+

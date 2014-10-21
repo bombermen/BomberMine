@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Network\NetworkScript.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Network\NetworkScript.cs" Line="809" Column="6" />
+      <File FileName="Assets\Scripts\Data\LoadAndSaveDataScript.cs" Line="51" Column="1" />
+      <File FileName="Assets\ManagerScript.cs" Line="475" Column="48" />
+      <File FileName="Assets\Scripts\Partie\QuitterPartieScript.cs" Line="30" Column="64" />
+      <File FileName="Assets\Scripts\Menus\SelecteurskinMulti.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Items\BombScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Partie\MiniMapScript.cs" Line="56" Column="10" />
+      <File FileName="Assets\Scripts\Partie\FoudroimentScript.cs" Line="17" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

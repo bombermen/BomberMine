@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 571f87b2ecb23c540b3987c39e174701
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Circle
+    100004: Circle_001
+    100006: Circle_002
+    100008: Circle_003
+    100010: Circle_004
+    100012: Circle_006
+    100014: Circle_007
+    100016: Cone
+    100018: Icosphere
+    100020: Lamp
+    100022: Plane
+    100024: Plane_001
+    100026: Plane_002
+    100028: Plane_003
+    100030: Plane_004
+    100032: //RootNode
+    100034: Text
+    400000: Camera
+    400002: Circle
+    400004: Circle_001
+    400006: Circle_002
+    400008: Circle_003
+    400010: Circle_004
+    400012: Circle_006
+    400014: Circle_007
+    400016: Cone
+    400018: Icosphere
+    400020: Lamp
+    400022: Plane
+    400024: Plane_001
+    400026: Plane_002
+    400028: Plane_003
+    400030: Plane_004
+    400032: //RootNode
+    400034: Text
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Circle_006
+    2300012: Circle_007
+    2300014: Cone
+    2300016: Icosphere
+    2300018: Plane
+    2300020: Plane_001
+    2300022: Plane_002
+    2300024: Plane_003
+    2300026: Plane_004
+    2300028: Text
+    2300030: //RootNode
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Circle_006
+    3300012: Circle_007
+    3300014: Cone
+    3300016: Icosphere
+    3300018: Plane
+    3300020: Plane_001
+    3300022: Plane_002
+    3300024: Plane_003
+    3300026: Plane_004
+    3300028: Text
+    3300030: //RootNode
+    4300000: Circle_007
+    4300002: Circle_006
+    4300004: Plane_004
+    4300006: Plane_003
+    4300008: Plane_002
+    4300010: Circle_003
+    4300012: Circle_004
+    4300014: Circle_002
+    4300016: Circle_001
+    4300018: Plane_001
+    4300020: Text
+    4300022: Plane
+    4300024: Circle
+    4300026: Cone
+    4300028: Icosphere
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
